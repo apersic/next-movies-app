@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+It uses [The Movie Database API](https://developers.themoviedb.org/3/movies/get-movie-images) to fetch popular movies, shows movie details.
+
+Tailwind CSS is used for styling, read the [docs](https://tailwindcss.com/docs) to learn more.
+
 ## Getting Started
 
 First, run the development server:
